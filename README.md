@@ -4,7 +4,7 @@ A minimalist ultra-dark theme for Visual Studio Code — built for night coders,
 
 # 🖤 DevSena Ultra Dark — VS Code Theme
 
-![DevSena Ultra Dark Preview](Screenshot.png.png)
+![DevSena Ultra Dark Preview](Screenshot.png)
 
 A minimalist ultra-dark theme for Visual Studio Code...
 
