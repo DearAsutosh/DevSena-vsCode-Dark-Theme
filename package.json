@@ -1,0 +1,21 @@
+{
+  "name": "devsena_dark",
+  "displayName": "devsena_dark",
+  "description": "A beautiful custom theme by me - Asutosh",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "My Custom Theme",
+        "uiTheme": "vs-dark", 
+        "path": "./themes/dev-sena-ultra-dark-color-theme.json"
+      }
+    ]
+  }
+}
